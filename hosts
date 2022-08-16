@@ -17,3 +17,11 @@
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 adservice.google.com
+
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 pm-gateway.supersonicads.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 adservice.google.com
+0.0.0.0 iab-imp-gateway.supersonicads.com
