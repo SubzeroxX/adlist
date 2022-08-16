@@ -10,6 +10,6 @@
 0.0.0.0 https://ashcdn.com
 0.0.0.0 www.ashcdn.com
 
-0.0.0.0 main-director.indavideo.hu
-0.0.0.0 https://main-director.indavideo.hu
-0.0.0.0 www.main-director.indavideo.hu
+0.0.0.0 embed.indavideo.hu/player/video/0956e784ae?autostart=1&hide=titleshare&ads=adocean
+0.0.0.0 https://embed.indavideo.hu/player/video/0956e784ae?autostart=1&hide=titleshare&ads=adocean
+0.0.0.0 www.embed.indavideo.hu/player/video/0956e784ae?autostart=1&hide=titleshare&ads=adocean
